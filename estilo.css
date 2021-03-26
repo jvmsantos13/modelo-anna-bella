@@ -3,13 +3,17 @@ body {
     
 }
 
-h3 {
-    color: #B8860B;
-}
-
 a {
     color:rgba(38, 38, 109, 0.747)
         
+}
+
+h3 {
+    color: rgb(206, 150, 101);
+}
+
+.imagens {
+    border: solid 8px #d3c39c;
 }
 
 .navegacao {
