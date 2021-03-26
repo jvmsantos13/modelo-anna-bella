@@ -15,3 +15,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 **Link do projeto:** https://joao-monteiro-santos.github.io/Modelo-Anna-Bella/
 
 ![](anna-bella-gif.gif)
+
+## Autor
+João Victor Monteiro
+https://www.linkedin.com/in/jvmsantos/
