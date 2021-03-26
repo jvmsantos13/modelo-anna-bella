@@ -3,4 +3,4 @@
 
 **Link do projeto:** https://joao-monteiro-santos.github.io/Modelo-Anna-Bella/
 
-![](
+![](anna-bella-gif.gif)
