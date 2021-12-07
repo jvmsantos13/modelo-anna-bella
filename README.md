@@ -12,7 +12,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 	:computer: Projeto concluído :heavy_check_mark:
 </h4>
 
-**Link do projeto:** https://jvmsantos13.github.io/Modelo-Anna-Bella/
+**Link do projeto:** https://jvmsantos13.github.io/modelo-anna-bella/
 
 ![](anna-bella-gif.gif)
 
